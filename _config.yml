@@ -1,6 +1,6 @@
 # Site settings
 title: A-SHIN BLOG
-SEOTitle: A-SHIN的博客 | A-SHIN BLOG
+SEOTitle: SAMLL-YOUNTH的博客 | YOUNTH BLOG
 header-img: img/bg/001.jpg
 email: huangx916@163.com
 description: "游戏引擎、图形渲染 | A-SHIN，GameEngine Lover，Software | 这里是 @A-SHIN 的个人博客，与你一起发现更大的世界。"
@@ -129,3 +129,4 @@ friends: [
     #    href: "http://wepiaofei.github.io/blog/"
     }
 ]
+
